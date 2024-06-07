@@ -18,7 +18,7 @@ This is a Next.js application named recipe-book. It includes a simple home page 
 
 
 
-1. Clone the repository: git clone [repository URL]
+1. Clone the repository: git clone [https://github.com/JeremieAgee/recipe-book]
 
 2. Navigate to the project directory: `cd [project-directory]`
 
@@ -34,7 +34,7 @@ This is a Next.js application named recipe-book. It includes a simple home page 
 
 
 
-This application is deployed on Vercel. You can view the live site at: [deployment URL]
+This application is deployed on Vercel. You can view the live site at: [https://recipe-book-relogrqhi-jeremie-agees-projects.vercel.app/]
 
 
 
